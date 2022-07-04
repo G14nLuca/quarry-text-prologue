@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url('/resources/fonts/VCROSDMono.eot'),
+        url('/resources/fonts/VCROSDMono.woff') format('woff'),
+        url('/resources/fonts/VCROSDMonot.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'VCR OSD Mono';
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/resources/imgs/background-img.jpg');
+    background-size: cover;
+    background-position: top left;
+    animation: mymove 60s infinite;
+}
+
+@keyframes mymove {
+  50% {background-position: right;}
+}
+
+.content-wrapper {
+    width: 80%;
+    padding: 4rem 2rem 1rem 2rem;
+}
+
+.text-window {
+    padding-bottom: 30rem;
+    font-size: 25px;
+    background-color: rgba(211, 211, 211, 0.4);
+    color: white;
+}
+
+.text-window #game-text {
+    text-align: justify;
+}
+
+.choice-window {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 25px;
+    margin-top: 1rem;
+}
+
+.choice-window .choice-text, .choice-window .choice-text {
+    font-size: 20px;
+}
+
+@media (min-width: 481px) {
+    body {
+        background-color: lavender;
+    }
+}
+
+@media (min-width: 769px) {
+    body {
+        background-color: pink;
+    }
+}
+
+@media (min-width: 1025px) {
+    body {
+        background-color: blue;
+    }
+}

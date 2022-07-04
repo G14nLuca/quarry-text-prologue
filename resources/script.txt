@@ -1,0 +1,265 @@
+Noite de lua cheia. 
+A humanidade já atribuiu tantos significados científicos, espirituais e mitológicos para esse momento em que a face deste satélite natural está completamente iluminada pelos de raios do Sol e totalmente voltada para a Terra.
+Porém, para os monitores do Acampamento de Verão Heackett’s Quarry, as noites de lua cheia passarão a ter um significado que, certamente, eles se lembrarão para o resto de suas vidas.
+Quer dizer… Se conseguirem sobreviver a esta noite… E aquilo que ela traz consigo…
+[empty line]
+24 de Junho.
+Na esperança de chegarem a Hackett’s Quarry, o local em que se volutariaram para serem monitores, Laura Kearney e seu namorado, Max Brinly decidiram percorrer pela vazia Rodovia 919 para chegar ao local.
+O relógio marcava 23 horas e 50 minutos. Não era um horário comum para se estar na estrada, principalmente quando seu destino é um Acampamento de Verão no meio da densa floresta que compõe a paisagem do Norte do Estado de Nova York.
+Entretanto, Laura estava determinada a chegar no local naquela noite; Tanto é que ela havia deixado uma mensagem no telefone do diretor do acampamento, o Senhor Hackett de que eles estariam indo para lá.
+Só tem um pequeno detalhe. Eles estavam perdidos. Tecnicamente, quem estava perdido era o Max, já que a caminhonete era da mãe dele. Se bem que, considerando todas as desventuras que ocorrerão desta noite em diante, isso pouco importará…
+[empty line]
+Max: Ei, por que você desligou a música?
+Laura: Eu acho que você sabe o motivo…
+Max: Hã… Não sei, não…
+Laura: Começa com a letra “L”.
+Max: ...
+Laura: Aquela palavra com L.
+Max: …Lésbicas?
+Laura: Localização, Max. Estamos perdidos.
+Max: A gente tá… seguindo… o fluxo do local.
+Laura: Em outras palavras, perdidos.
+Max: Discutível.
+[empty line]
+Um buraco no meio da rodovia surpreende ambos os jovens e quase custou a tela do celular de Laura, que estava apoiado no painel do veículo com o aplicativo de Mapas aberto, embora a falta de sinal não facilitasse muito. O pior só não aconteceu devido aos rápidos reflexos da moça.
+[empty line]
+Laura: Eu tenho certeza de que as estradas desse país estão indo de mal a pior.
+Max: Veja pelo lado bom. Pense que isso faz parte da experiência rústica do acampamento.
+Laura: Ah! Estamos indo para um acampamento, então? Eu totalmente tinha me esquecido disso alguns quilômetros atrás… Admite logo que estamos perdidos, Max. Você não vai ser menos homem por isso.
+Max: Em minha defesa, se Cristóvão Colombo não tivesse se perdido, os Estados Unidos da América nem existiriam.
+Laura: Ele nem sabia que ele não estava na Ásia. Ele só era outro cara que não queria admitir que se perdeu. Chega desse papo e vamos chegar logo no acampamento antes que eu morra com tanto absurdo.
+Max: Senhora, sim senhora. Já estou trabalhando nisso, senhora.
+[empty line]
+[?]Laura se volta para o banco de trás, onde sua mochila está. No bolso da frente, está um mapa da rodovia e um panfleto do Acampamento.
+[Choice 1] Pegar o panfleto
+[C1] Laura pega o panfleto do acampamento.
+[C1] Laura: Será que o panfleto do acampamento não tinha nenhuma direção sobre como chegar lá?
+[C1] Max: Não, só uma foto falsa de crianças falsas ao redor de uma fogueira falsa.
+[C1] Laura: Tem razão.
+[end of Choice 1]
+[Choice 2] Pegar o mapa
+[C2] Laura pega o mapa da rodovia.
+[C2] Max: Por que você tem um mapa de papel? A gente já tem um mapa no celular.
+[C2] Laura: Como você não percebeu ainda que estamos sem sinal?
+[C2] Max: Ah, tá.
+[end of Choice 2]
+Max observa Laura. Laura observa o objeto que está em suas mãos. Ninguém está de olho na estrada.
+Laura: Dá para você, por favor, ficar olhando para a…
+Max: CUIDADO!
+[empty line]
+Mesmo com a luz do luar e os faróis do carro, a visibilidade da estrada era péssima e, para evitar acertar aquilo que havia aparecido subitamente em sua frente, Max joga o veículo totalmente para a esquerda. 
+Após destruir uma pequena cerca de madeira, a caminhonete vai avançando… ladeira abaixo… floresta adentro… Até que o rapaz consegue retomar o controle e freiar completamente o transporte.
+Mas o que foi que Max havia acabado de desviar? Uma pessoa? Um animal? Ou nenhum dois dois?
+[empty line]
+Max: Tudo bem?
+Laura: Sim. Quer dizer… Eu ainda tô inteira.
+Max: Laura, o que era aquilo na estrada? Um urso?
+Laura: Não. Definitivamente não era um urso.
+Max: Então o que era?
+Laura: Eu acho que era uma pessoa…
+Max: …você acha que atropelamos alguém?
+Laura: Eu não sei… Eu não vi direito… Mas não acho atropelamos alguém…
+[empty line]
+Max sai do carro e olha para a frente do veículo que, definitivamente, já esteve em melhores condições. Torcendo para que, desta vez, a sabedoria popular estivesse certa e as aparências realmente enganassem, Max abre o capô e pede para Laura ir pegar uma caixa de ferramentas na mala.
+[?]Laura se dirige para a traseira da caminhonete e abre o porta-mala. Confirmando o que Max havia dito, a caixa de ferramentas estava lá, ao lado da bagagem de seu namorado. Um envelope branco se destaca para fora da balsa.
+[Choice 1] Abrir o envelope
+[C1] Laura rotaciona a mala para poder alcançar o envelope. Logo ela descobre ser uma carta que estava minimamente dobrada. Com a dobra desfeita e o conteúdo daquele envelope enfim revelado, Laura descobre que Max foi rejeitado pela Universidade de Landis. 
+[C1] Após um breve momento de descontentamento, tanto pela rejeição, como por causa do Max não ter lhe contado nada, Laura dobra novamente o papel, coloca-o no bolso da mala onde originalmente estava e coloca a bagagem na posição onde encontrou.
+[end of Choice 1]
+[Choice 2] Deixar para lá
+[C2] Laura pensa melhor e decide não mexer nas coisas de Max. Se for importante, ele vai acabar querendo conversar sobre isso quando a oportunidade surgir.
+[end of Choice 2]
+Laura pega a caixa de ferramentas e se dirige para a dianteira do veículo, onde Max avaliava o real estrago que o ocorrido causou ao meio de transporte.
+Laura: Aqui está.
+Max: Obrigado. Poderia iluminar essa parte do motor aqui?
+Laura: Claro. Tudo para sair logo daqui.
+Max: Imagine que está de frente a uma fogueira cantando músicas de acampamento.
+Laura: Tá bom, eu vou tentar.
+[empty line]
+“Silas…”
+[empty line]
+Subitamente, Laura ouve uma voz feminina. Parece estar vindo de floresta adentro. Esperando obter uma confirmação visual da origem da voz, Laura realiza um giro em seu próprio eixo e aponta a lanterna de seu celular para a floresta. 
+Ao fazer isso, a garota aparenta ver algo de relance. Embora não tenha certeza, sua intuição exclama que o que ela avistou era um ser humano de vestes brancas passando por entre os troncos.
+[empty line]
+Max: Ei, aonde você vai?
+Laura: Eu acho que tem alguém ali na floresta. Acho que era uma mulher. Pode estar ferida. 
+Max: Será que a gente atropelou ela?
+Laura: Eu não sei. Me ajuda aqui a descer. Eu quero ir dar uma olhada.
+Max: …tudo bem. Só, por favor, tenha cuidado. E não vá muito longe.
+Laura: Tá certo. Pode me ajudar a descer aqui?
+[empty line]
+Com a ajuda de Max, Laura consegue descer uma pequena e íngrime ladeira e chega a uma trilha dentro da mata. O caminho aparenta ser relativamente largo e liso, já que não possui muitos desníveis e buracos. Será que algum veículo poderia passar por aqui? Se sim, por qual motivo alguém iria querer ir tão fundo na floresta?
+Enquanto avançava na trilha, usando a lanterna de seu celular para guiar-se em meio à escuridão, a luz emitida pelo aparelho aparenta refletir em algo preso a uma das árvores. Ao aproximar-se para averiguar o que poderia ser tal objeto, Laura encontra o que parece ser um cartaz de um circo intinerante.
+“Harum Scarum…”, pensou Laura. “Esse cartaz parece estar aqui há um bom tempo… O que são essas marcas de queimado nas bordas… Foco, Laura!”
+[?]Retornando sua atenção ao percurso, Laura caminha por mais alguns metros até encontrar uma aparente bifurcação.
+[Choice 1] Ir pela esquerda
+[C1] Laura pega o caminho da esquerda e faz uma leve curva até encontrar um beco sem saída. 
+[C1] O que não contava era encontrar o que parecia ser uma caixa. Conforme a uma relativamente grande caixa de metal no final daquele caminho. A tonalidade carmesim daquela maleta também era de fácil iden
+[C1] Ao abrí-la, Laura se depara com um par de algemas e uma larga camisola branca que, com certeza, já esteve em melhor estado. Até a cor foi vítima do tempo e passa a apresentar um tom semelhante ao amarelo, embora menos saturado.
+[C1] Talvez isso pertença ao circo daquele cartaz, mas o que isso estaria fazendo aqui?
+[C1] Laura fecha a maleta e refaz seus passos de volta à bifurcação e decide ir pelo outro caminho.
+[end of Choice 1]
+[Choice 2] Ir pela direita
+[C2]Laura percorre o caminho da direita, indo ainda mais fundo na floresta. 
+[end of Choice 2]
+As árvores, cada vez mais altas e próximas uma das outras, bloqueiam ainda mais a já pouca luz do luar. Em um momento de distração, Laura tropeça e se desequilibra momentaneamente. 
+Ao retomar a pose e apontar seu celular para o chão, a jovem encontra um pedaço de madeira de tom alaranjado. A julgar pela espressura e coloração, Laura conclui que pode ter encontrado o que parece ser uma placa.
+A fim de confirmar sua suposição, Laura se ajoelha, pega uma pedra para apoiar seu celular em um ângulo onde boa parte da terra próxima àquela madeira tornou-se mais visível pela lanterna do aparelo.
+Laura começa a espalhar a terra próxima ao pedaço de madeira exposto. Aos poucos, a placa vai se revelando até que uma grande parte do sinal se torne visível. 
+“Silas, o menino-cão”. Este era o texto encravado na placa com letras cursivas e um vermelho-sange bem chamativo, mas a coisa que fez gelar a espinha de Laura foi o forte cheiro de sangue misturado com terra que aquele sinal emanava. E não parecia ser de tanto tempo atrás.
+Laura: Mas que p… é essa?! Eu tenho que voltar pro Max. A gente tem que voltar para a estrada e tem que ser AGORA!
+[empty line]
+Laura prontamente se levanta, pega seu celular e sai correndo pela trilha, na esperança de que, no final do percurso, ela teria andado um grande círculo e estaria de volta à caminhonete, de preferência com o veículo já funcionando novamente.
+O silêncio intimidador da floresta era brevemente interrompido pela respiração ofegante, pelo coração acelerado devido à adrenalina que percorria seu corpo e os passos curtos e rápidos que a monitora dava. Mas um novo elemento som foi adicionado à sinfonia de medo e pavor que chegava aos tímpanos daquela jovem.
+[empty line]
+“Silas… Silas… Silas…”
+A voz estava cada vez mais alta. Desta vez, tinha certeza de que era uma mulher. Uma senhora, talvez. 
+Preocupação. Remorso. Pavor. Laura podia até sentir o pesar, a preocupação, o remorso, o pavor que aquelas repetições carregavam em si. Era como se a emissora estivesse próximo à jovem. Muito perto.
+Tão perto que era como se estivesse literalmente ao lado de Laura. 
+Observando... 
+[empty line]
+Provocando... 
+[empty line]
+Aterrorizando...
+[empty line]
+Laura avista a luz do farol da caminhonete e, mesmo desgastada, aumenta a velocidade para chegar naquele lugar o mais rápido que podia. Ela só queria abraçar seu namorado. E nunca mais soltá-lo.
+Laura: MAX!
+Laura chega na caminhonete e abraça Max.
+[empty line]
+Max: LAURA?! Laura… Ei, ei. Calma, calma, calma… O que foi que houve?
+Laura: Tem alguma coisa lá na floresta. Definitivamente não é nenhum animal… mas também não sei se é 100% humano.
+[empty line]
+“Silas…”
+[empty line]
+Max (espantado): O que car**** foi isso?
+Laura: …Conseguiu dar um jeito no carro?
+Max: Sim, mas não cheguei a testá-lo.
+Laura: Então espero que tenha dado certo. Vamos sair daqui. AGORA!
+[empty line]
+Eles adentram rapidamente o veículo. Na esperança de que seu improviso tenha sido o suficiente para tirá-los daquela situação, Max insere a chave e dá a partida. Um genuíno suspiro de alívio e felicidade pode ser ouvido vindo da boca do rapaz ao perceber que sua gambiarra deu certo.
+Infelizmente, essa sensação não dura muito tempo já que, ao engatar a primeira marcha e pisar no acelerador, é notável a dificuldade do veículo em realizar qualquer movimento. A lama embaixo do pneu ainda estava úmida. E eles não saíriam de lá por um bom tempo…
+Quer dizer, era isso que eles achavam.
+[empty line]
+“Abaixa o vidro.”
+Pegando ambos desprevinidos, um policial aparece no vidro do lado do motorista. Ele deve ser bem cauteloso, já que Max e Laura não ouviram nenhum ruído fora do carro que indicasse a aproximação de qualquer ser vivo, muito menos o de outra pessoa.
+Obedecendo ao oficial, Max abaixa o vidro e comprimenta-o.
+[empty line]
+Max: Boa noite, senhor policial. Tudo bem com o senhor?
+Policial: Estão feridos?
+Max: Não, senhor. Somente um pouco exaltados.
+Policial: Podem me dizer o que aconteceu aqui?
+Laura: Sim, nós…
+[Choice 1]Inventar alguma coisa
+[C1] Laura: A gente… bem… só estava dirigindo pela rodovia e… Eu não sei, provavelmente passamos por um buraco ou coisa parecida, depois perdemos o controle do veículo e… aqui estamos.
+[C1] O policial murmurra, mas seu olhar já denuncia que ele não acreditou em nenhuma palavra que a senhorita Kearney acabou de falar.
+[end of Choice 1]
+[Choice 2] Falar a verdade
+[C2] Laura: A gente… bem, alguma coisa surgiu do nada no meio da estrada e, para não atingí-la, desviamos, perdemos o controle do veículo e… aqui estamos.
+[C2] Policial: “Alguma coisa”?
+[C2] Laura: Me desculpa mesmo, policial. É que estava muito escuro e… e foi tudo muito rápido e depois ele sumiu…
+[C2] Policial: “Ele”? Senhorita, por acaso você atingiu alguém?!
+[C2] Laura: Não! Não, claro que não… Quer dizer, eu não tenho tanta… certeza… quanto a isso.
+[C2] O tom de voz escolhido pelo policial demonstra certa ansiedade e preocupação.
+[end of Choice 2]
+O policial pede a Max para manter o carro funcionando e volta para sua viatura para buscar um gincho e trazer o veículo de volta à estrada. Enquanto isso, Max e Laura conversam sobre o que acabara de acontecer.
+[empty line]
+Max: Ele não parece ser o vencedor do prêmio “Policial mais assustador do ano?”
+Laura: Eu sei lá, é o meu primeiro encontro com um oficial.
+Max: Sério?
+Laura: Duh, eu não sou uma criminosa.
+[empty line]
+O policial retorna, encaixa o gancho no parachoque traseiro da caminhonete do Max, volta para a viatura, dá a partida e começa a puxar o veículo para fora da floresta. Após terminar o procedimento, o homem misterioso volta a falar com o jovem casal.
+Policial: Agora sejam honestos comigo. O que diabos vocês dois estão fazendo nesse fim de mundo a essa hora da noite?
+[Choice 1] Desconversar
+[C1] Laura: Talvez a gente só estava apreciando a paisagem, oficial. Isso é um crime?
+[C1] Policial: Senhorita... hmm... olha, eu vou assumir, pelo tom da sua voz, que vocês não sabiam que, até amanhã pela manhã, esta é uma zona de caça esportiva.
+[C1] Laura: Oh… Nós realmente não sabíamos disso, oficial. Na verdade, acabamos nos perdendo.
+[C1] Policial: E para onde pretendiam ir?
+[C1] Max: Acampamento de Verão Hackett’s Quarry.
+[end of Choice 1]
+[Choice 2] Cooperar
+[C2] Laura: Estamos indo para o Acampamento de Verão Hackett’s Quarry. Somos os novos monitores.
+[C2] Policial: Pelo que me contaram, os monitores só vão chegar pela manhã.
+[C2] Laura: Sabemos disso. Só queriamos chegar mais cedo para conhecer o lugar antes. A gente ligou avisando.
+[C2] Max: E só ficamos perdidos porque um de nós acabou acabou superestimando seu senso de localização. Eu, nesse caso.
+[end of Choice 2]
+[empty line]
+O policial faz uma pausa. Não muito longa, mas o suficiente para causar certo desconforto aos joves monitores.
+Policial: Não. Vocês não vão para o Acampamento de Verão. Não esta noite. Vão para o Hotel Harbinger. É o local mais próximo daqui. Lá vocês poderão se recompor até a manhã. Certo?
+Laura: Uhh… A gente vai continar com nosso plano original, oficial. Nós até já ligamos para o Senhor Hackett avisando que estávamos a caminho e…
+A resposta que acabara de ouvir quase esgotou a já pouca paciência que o policial ainda possuía. E, ainda assim, mesmo com toda esta teimosia e afronta, o policial tentou suprimir tais instintos para reaver sua civilidade. Mas isso não impediu que seu tom de voz ficasse mais imperativo.
+[?]Policial: Não senhorita. Vocês vão para o Hotel Harbinger. Estamos entendidos?
+[Choice 1] Insistir
+[C1] Laura: Com todo o respeito, policial... mas por que nós não podemos ir para Hackett’s Quarry?!
+[C1] Policial: PORQUE EU ACABEI DE DIZER PARA VOCÊS IREM PARA O HOTEL!
+[end of Choice 1]
+[Choice 2] Aceitar
+[C2] Laura: Entendido, policial. Nós vamos para o hotel, sim. Só um pequeno detalhe.
+[C2] Max: Minha operadora não oferece cobertura para o fim de mundo onde estamos.
+[end of Choice 2]
+Policial: Por favor, senhorita, saia do veículo. Como vocês me disseram que estão perdidos, eu gostaria de apontar algumas direções neste mapa da rodovia que você possui.
+Laura pega o mapa que está no painel e sai do veículo. Max ensaia um movimento parecido, mas o policial ordena que o rapaz permaneça no interior. Laura se dirige à dianteira da caminhonete e entrega o mapa para o policial, que o abre parcialmente no capô.
+Trazendo ao papel um lápis que estava em seu bolso traseiro, o policial faz dois círculos. O primeiro foi para indicar a atual localização deles três e o segundo para esclarecer a localização do Hotel Harbinger.
+Laura faz uma tentativa ousada e pergunta sobre onde fica Hackett’s Quarry. Como se por instinto, o homem leva seu lápis para um ponto próximo à localização do acampamento e quase desenha um terceiro círculo. 
+Porém, percebendo o que Laura o levou a fazer, e esperando que a jovem não tenha visto o suficiente para saber onde o acampamento fica, ele tenta desconversar afirmando que algum funcionário do hotel poderia ajudá-los com esse assunto pela manhã.
+Laura retorna para dentro da caminhonete. “Hotel Harbinger. Fiquem na estrada. E cuidado com os buracos. Tenham um boa noite.”, diz o policial a Max antes de se dirigir à sua viatura.
+Max e Laura acompanham os movimentos daquele homem pelo vidro traseiro e ficam levemente confusos ao notarem que, embora já estivesse no interior do veículo, ele não realizou qualquer ação para indicar que estava de saída daquele local.
+Ele só ficou lá. Observado os dois.
+[empty line]
+Max: É só eu ou aquele cara fede pra caramba?
+Laura: Pois é, né?! E aquilo perto do lábio dele… Era sange?
+Max: Honestamente, não quero mais ver ele pelo resto da minha vida.
+Laura: Tô contigo nessa… Enfim, a noite está sendo longa demais e minha cota diária de encontros assustadores na floresta já se esgotou. Vamos por o pé na estrada.
+Laura abre em seu colo a porção do mapa com os círculos deixados pelo policial.
+Laura: Então, aqui é onde estamos e aqui fica o hotel. Porém… nós vamos para cá.
+Max: O que tem aí?
+Laura: …Hackett’s Quarry.
+Max: Como você sabe?
+Laura: Eu meio que enganei o policial para ele me mostrar.
+Max: Olha a habilidade da minha garota. Mas sério, tem certeza de que não é melhor a gente ir para o hotel, como aquele cara aconselhou?
+Laura: Amor, você realmente quer dar razão a um policial assustador que, no meio de uma floresta assustadora, disse para a gente ir para um provável hotel assustador?
+Max: …ai eu perdi no argumento. Para o acampamento, então, senhorita?
+Laura solta um pequeno riso enquanto Max começa a guiar a caminhonete rumo ao acampamento.
+[empty line]
+25 de Junho. Meia noite e vinte e seis.
+Alex e Laura chegam ao acampamento. A primeira coisa que chama a atenção do casal ao descerem do carro é o casarão suspenso de madeira que, provavelmente, deve servir como salão principal, refeitório e escritório do senhor Hackett. 
+Mesmo na escuridão da madrugada, o luar torna visível uma pequena trilha do lado esquerdo da estrutura. Além da densa floresta onde o local estava localizado, a paisagem que se apresentava ao fundo daquele caminho também era composta por um lago e pela pequena ilhota que pode ser vista perto da outra margem.
+Pode-se concluir que seguir tal acesso os levaria para uma margem do lago onde, provavelmente, tendas, grandes toras de madeira e um círculo de pedras estariam presente. Um lugar perfeito para uma passar a noite de frente a uma fogueira, assar marshmallows e ouvir histórias de terror alternadas com músicas de acampamento.
+Mas não era hora para isso. Max e Laura chegaram lá e não iam sair de lá. Mesmo com as luzes apagadas, a presença de outro veículo, além do deles, de frente à escadaria que dá acesso à entrada indica que tinha mais alguém lá. A opção mais lógica era o Senhor Hackett.
+Laura bate na porta. Nada. Ela bate novamente. Ainda nada. Ela faz uma saudação genérica, esperando que alguém responda de volta. Mas recebe somente silêncio como retorno. 
+A esse ponto, Max já está com raiva de toda essa situação, até porque, como estava bem claro, deixar uma mensagem no correio de voz e falar diretamente com uma pessoa de verdade são coisas completamente diferentes.
+Ele desce a escadaria e volta para dentro da caminhonete de sua mãe. Laura faz o mesmo, porém, ao invés de ir para o veículo, Laura percebe que, por baixo da casa, existe esse grande vazio que, possivelmente, serve como um estacionamento e que, no fim desse espaço, há uma pequena luz iluminando algo.
+Ao percorrer o espaço e aproximar-se da luz, Laura percebe que esse “algo” se trata de uma duas portas de metal. A julgar por seu ângulo em relação ao chão, e a estrutura de concreto que rodeia o objeto, pode-se supor que aquilo é uma passagem para um depósito, ou abrigo, que existe no subsolo. E que aparenta ser deveras resistente.
+No momento, a passagem está trancada por um cadeado. Laura tenta olhar pela pequena abertura que existe entre ambas as portas e consegue observar um ser vivo lá dentro. Ela julga ser uma pessoa, mas seu modo de andar usando pés e mãos como “patas” levanta uma dúvida na cabeça da jovem. 
+Laura se afasta da porta, vai em direção a Max, pede para que seu namorado venha e traga algumas ferramentas para quebrar a tranca. Max atende prontamente o pedido e, alguns momentos depois, o rapaz chega com um martelo e uma chave inglesa 08. A moça até questiona o porquê dele não trazer a caixa inteira, mas logo deixa isso passar.
+[Choice 1] Pegar o martelo
+[C1] Laura: Bem, como diria o MC Hammer, “Hora de martelar!”.
+[C1] Max: Tem certeza? Isso vai fazer um barulhão.
+[C1] Laura: E daí? Tem alguém preso nesse bunker, Max.
+[C1] Laura pega o equipamento da mão de Max e começa a martelar o cadeado até que ele, enfim, se parte.
+[end of Choice 1]
+[Choice 2] Pegar as chaves
+[C2] Laura pega o par de chaves da mão de Max e as encaixa nas pontas do gancho do cadeado.
+[C2] Fazendo movimento giratórios em direções opostas, o gancho se parte.
+[end of Choice 2]
+Com a passagem agora aberta, o casal abre as portas e começa a descer as escadas. Max tenta quebrar o silêncio de toda essa situação duas vezes seguidas, e mostrar seus conhecimentos em cultura pop.
+Na primeira tentativa, ele pergunta a Laura se ela já assistiu A Morte do Demônio, mas ele recebe um sonoro “Shhh…” como resposta. Na segunda, já propriamente dentro do bunker, ele pergunta para o vazio se aquilo que sua namorada diz ter visto realmente existe e recebe um óbvio olhar de desaprovação.
+Querendo evitar mais confusão, o rapaz se senta em um degrau enquanto Laura explora o resto daquele local.
+É um ambiente sujo e desorganizado, cheio de caixas de papelão, pedaços desgastados de madeira, prateleiras pegando poeira… Na verdade, não existe nada nesse espaço que lembra um abrigo comum para tempestades, como mantimentos, roupas e itens de auto-defesa.
+Avançando um pouco mais, Laura encontra uma coleira cheia de sangue. O nome “Ian” está escrito nela. E só bastou olhar iluminar um canto um pouco mais isolado daquele bunker para conhecer o dono dessa coleira. Ex-dono, na verdade.
+Quem quer que estava lá dentro, fez questão de deixar o “Ian” irreconhecível. E por um momento, Laura paralisou. Por mais que ela quisesse, ela não conseguia desviar o olhar daquele esqueleto estranhamente conservado e em “bom estado” que estava no meio daquela relativamente grande poça de sangue.
+Ao recobrar seus sentidos, Laura começa a voltar para a escadaria. Max começa um pequeno discurso para convencer sua cara metade de que o mais lógico a ser feito agora é ir para o hotel que o policial havia indicado, até porque não parecia ter mais ninguém além deles dois lá dentro.
+Bem… era o que ele pensava.
+Algo avança como um vulto e ataca Max, levando-o para um canto da sala que está fora de visão de Laura, que avança rapidamente para averiguar o estado de seu namorada e o encontra com uma quantidade assustadora de sangue em sua cabeça e ombro. O que, ou quem, tiver causado esses ferimentos já não estava mais presente.
+[Choice 1](Ajudar Max)
+[C1] Laura coloca suas mãos por debaixo de suas axilas e começa a puxar seu namorado escada acima. O esforço para isso é tão grande que os grunhidos de dor de Laura ecoavam pelo local. Ao chegar no topo da escada, Laura se senta brevemente no chão para adquirir uma melhor posição para levar Max até a caminhote.
+[C1] Porém, nesses poucos segundos, Max é puxado escada abaixo.
+[end of Choice 1]
+[Choice 2](Deixar Max)
+[C2] Em um ato de desespero, Laura abandona seu namorado ferido e, rapidamente, dirige-se para fora daquele lugar. Remoendo o que acabara de fazer, uma vez já na área externa, Laura faz um rápido giro e se encontra encarando novamente a escadaria.
+[end of Choice 2]
+A loira é pega desprevinida ao ver seu namorado sendo novamente atacado.
+Os gritos de pavor do rapaz roubam totalmente a atenção de Laura, fazendo com que ela não percebesse que alguém havia chegado e estava atrás dela.
+Era aquele mesmo policial que os encontrou na rodovia. A última coisa que a moça se lembra é de ter sentido a agulha de uma injeção perfurando a base de seu crânio antes de apagar completamente.
+Indignado e furioso, o policial esbraveja:
+POR ACASO ISSO AQUI PARECE COM A PORCARIA DO HOTEL HARBINGER PARA VOCÊS?!
