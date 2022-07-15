@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {                        
+    "target": "es6",                               
+    "module": "es6",                           
+    "outDir": "./gamepage/JSFiles",                             
+    "rootDir": "./gamepage/TSFiles",                             
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true, 
+    "watch": true,                
+  },
+  "exclude":[
+    "./node_modules"
+  ]
+}

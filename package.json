@@ -1,0 +1,27 @@
+{
+  "name": "the-quarry-text-prologue",
+  "version": "1.0.0",
+  "description": "Supermassive Games' The Quarry... but make it as a text-based adventure",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G14nLuca/quarry-text-prologue.git"
+  },
+  "author": "Gian Luca Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G14nLuca/quarry-text-prologue/issues"
+  },
+  "homepage": "https://github.com/G14nLuca/quarry-text-prologue#readme",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "webpack": "^5.73.0"
+  },
+  "keywords": []
+}
