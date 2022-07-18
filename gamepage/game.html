@@ -7,19 +7,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prólogo</title>
     <link rel="stylesheet" href="style.css">
+    <script src="JSFiles/game.js" type="module"></script>
+    <script>var exports = {};</script>
 </head>
 
 <body>
     <div class="content-wrapper">
-        <div class="text-window">
-            <span class="text-item">texto1</span>
-            <span class="text-item">texto2</span>
-            <span class="text-item">texto3</span>
+        <div class="game-window">
+            <div class="start-text">
+                <p id="prologue-title">Noite Sangrenta</p>
+                <p id="begin-text">Pressione ESPAÇO para iniciar</p>
+            </div>
+            <div class="script-window"></div>
         </div>
         <div class="choice-window">
-            <button class="choice-btn"><span class="choice-text">Option 1</span></button>
-            <button class="choice-btn"><span class="choice-text">Option 2</span></button>
+            <button class="choice-btn" disabled onclick="selectOption(0)"><span class="choice-text">Opção 1</span></button>
+            <button class="choice-btn" disabled onclick="selectOption(1)"><span class="choice-text">Opção 2</span></button>
         </div>
+        <p id="instruction">Uitlize ESPAÇO para continuar a leitura.</p>
     </div>
 </body>
 
