@@ -22,6 +22,7 @@ body {
     height: 100vh;
     background-image: url('/resources/imgs/Moon.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .content-wrapper {
