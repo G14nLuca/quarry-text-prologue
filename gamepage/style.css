@@ -20,41 +20,95 @@ body {
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-image: url('/resources/imgs/background-img.jpg');
+    background-image: url('/resources/imgs/Moon.jpg');
     background-size: cover;
-    background-position: top left;
-    animation: mymove 60s infinite;
-}
-
-@keyframes mymove {
-  50% {background-position: right;}
 }
 
 .content-wrapper {
-    width: 80%;
-    padding: 4rem 2rem 1rem 2rem;
+    width: 80vw;
+    padding: 2rem;
 }
 
-.text-window {
-    padding-bottom: 30rem;
+.game-window {
+    padding-bottom: 35rem;
     font-size: 25px;
-    background-color: rgba(211, 211, 211, 0.4);
+    background-color: rgba(211, 211, 211, 0.5);
     color: white;
+    align-items: center;
 }
 
-.text-window #game-text {
-    text-align: justify;
+.game-window .start-text {
+    width: 80vw;
+    align-items: center;
+    padding-top: 12rem;
+    position: absolute;
+    text-align: center;
+}
+
+.game-window .start-text #prologue-title {
+    padding-bottom: 18px;
+    font-size: 45px;
+}
+
+.game-window .start-text #begin-text {
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 700;
+    animation: blinkingText 4s infinite;
+}
+
+.game-window .script-window{
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+.game-window .script-window .script-line{
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1rem 0.4rem;
+}
+
+#instruction {
+    font-size: 12px;
+    color: white;
+    margin-top: 0.5rem;
+    text-align: center;
+    display: none;
+}
+
+@keyframes blinkingText {
+    0% {
+        color: #fff;
+    }
+
+    49% {
+        color: transparent;
+    }
+
+    50% {
+        color: rgb(152, 5, 5);
+    }
+
+    99% {
+        color: transparent;
+    }
+
+    100% {
+        color: #fff;
+    }
 }
 
 .choice-window {
     display: grid;
     grid-template-columns: repeat(2, auto);
-    gap: 25px;
+    gap: 35px;
     margin-top: 1rem;
 }
 
-.choice-window .choice-text, .choice-window .choice-text {
-    font-size: 20px;
+.choice-window .choice-btn .choice-text {
+    font-size: 25px;
 }
 
 @media (min-width: 481px) {
