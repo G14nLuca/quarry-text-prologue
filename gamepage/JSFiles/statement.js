@@ -14,6 +14,9 @@ export class Statement {
     getId() {
         return this.id;
     }
+    getType() {
+        return this.type;
+    }
     getChoice(i) {
         return this.choices[i];
     }
