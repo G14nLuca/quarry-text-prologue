@@ -2,6 +2,7 @@ import { Choice } from "./choice.js";
 import { Statement } from "./statement.js";
 
 let choiceBtns: HTMLCollectionOf<Element>;
+let choiceTexts: HTMLCollectionOf<Element>;
 let scriptWindow: Element;
 let scriptTags: string[];
 let textObjects: Statement[];
@@ -11,6 +12,7 @@ let block: boolean;
 
 function loadElements() {
     choiceBtns = document.getElementsByClassName("choice-btn");
+    choiceTexts = document.getElementsByClassName("choice-text");
     scriptWindow = document.querySelector(".script-window") as Element;
     scriptTags = ["[empty line]", "[?]", "[Choice 1]", "[Choice 2]", "[C1]", "[C2]", "*", "**"];
 
@@ -19,36 +21,45 @@ function loadElements() {
     textObjects = [];
     index = 0;
     loadTextObjects();
-    keyboardSupport();
+    keyboardAndMouse();
 
 }
 
-function keyboardSupport() {
+function keyboardAndMouse() {
     document.getElementsByTagName("body")[0].addEventListener('keyup', e => {
         if (e.code == "Space") {
             pressed();
         }
-        console.log(e);
     });
+
+    document.getElementsByTagName("body")[0].addEventListener("click", e => {
+        if (e.button == 0) {
+            pressed();
+        }
+    });
+
+}
+
+function checkType() {
+    if (block == false) {
+
+        let line: Statement | Choice = textObjects.filter(obj => { return obj.getId() === index })[0];
+        sendTextToFront(line);
+        if (line.getType() == "Question") {
+            setChoices(line);
+        }
+        index += 1;
+    }
+
 }
 
 function pressed() {
     if (!start) {
-        hideText();
+        document.getElementsByClassName("start-text")[0].setAttribute("style", "display: none;");
         start = true;
-        pressed();
-
-    } else if (block == false) {
-
-        let line: Statement | Choice = textObjects.filter(obj => { return obj.getId() === index })[0];
-        
-        if (line.getType() == "Choice") {
-            setChoices(line);
-        } else {
-            sendTextToFront(line);
-            index += 1;
-        }
     }
+
+    checkType();
 
 }
 
@@ -60,14 +71,15 @@ function sendTextToFront(line: Statement | Choice) {
     scriptWindow.appendChild(newElement);
 }
 
-function hideText() {
-    document.getElementsByClassName("start-text")[0].setAttribute("style", "display: none;")
-}
-
 function setChoices(line: Statement) {
-    choiceBtns[0].innerHTML = line.getChoice(0).getText();
-    choiceBtns[1].innerHTML = line.getChoice(1).getText();
+    choiceTexts[0].innerHTML = line.getChoice(0).getText();
+    choiceBtns[0].removeAttribute("disabled");
+
+    choiceTexts[1].innerHTML = line.getChoice(1).getText();
+    choiceBtns[1].removeAttribute("disabled");
+
     block = true;
+
 }
 
 function selectOption() {

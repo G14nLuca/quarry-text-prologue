@@ -8,6 +8,9 @@ export class Choice {
     getText() {
         return this.text;
     }
+    getEvents() {
+        return this.events;
+    }
     addEvent(id, text, type) {
         this.events.push(new Statement(id, text, type));
     }

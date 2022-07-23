@@ -14,6 +14,10 @@ export class Choice{
         return this.text;
     }
 
+    getEvents(){
+        return this.events;
+    }
+
     addEvent(id: number, text: string, type: string){
         this.events.push(new Statement(id, text, type));
     }
